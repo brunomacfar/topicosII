@@ -13,7 +13,7 @@
 
 <body>
 <div id="conteudo">
-    <h2>Modelo CRUD</h2>
+    <h2>Modelo CRUD II</h2>
     <div id="msg-php" class="no-display"></div>
 
     <form method="POST" enctype="multipart/form-data" onSubmit="salvarForm(); return false;" id="frmCrud">
